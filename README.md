@@ -4,9 +4,8 @@
 
 ## Welcome! 👋
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
-https://blogpreview-frontendchallenge.netlify.app
-## The challenge
+You can see my solution here:  https://blogpreview-frontendchallenge.netlify.app
+Any suggestions on how I can improve are welcome!
 
